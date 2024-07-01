@@ -3,6 +3,8 @@ Threes - Monte Carlo Simulation
 -------------------------------------
 https://en.wikipedia.org/wiki/Monte_Carlo_method
 
+https://www.dice-play.com/Games/Threes.htm
+
 ## Strategy
 * Universal strategy
    * target below current min
